@@ -1,0 +1,94 @@
+body{background-color: #313236}
+
+#center {
+	width: 1000px;
+	height: 600px;
+	position: absolute;
+	top: 50px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+#block {
+	width: 101%;
+	height: 50px;
+	background-color: #212224;
+	margin: auto;
+	margin-left: -7px;
+	margin-top: -8px;
+}
+
+#block:hover {background-color: #262729;}
+
+#blockMi {
+	width: 485px;
+	height: 290px;
+	background-color: #606056;
+	margin-top: 5px;
+	margin-left: 10px;
+	text-align: -webkit-center;
+}
+
+#blockMi:hover {
+	width: 480px; 
+	height: 287px;
+	margin-top: 8px;
+	margin-left: 12px;
+}
+
+#blockGta {
+	width: 485px;
+	height: 290px;
+	background-color: #606056;
+	margin-top: 5px;
+	margin-left: 10px;
+	text-align: -webkit-center;
+}
+
+#blockGta:hover {
+	width: 480px; 
+	height: 287px;
+	margin-top: 8px;
+	margin-left: 12px;
+}
+
+#blockBatla {
+	width: 485px;
+	height: 290px;
+	background-color: #606056;
+	margin-top: -585px;
+	margin-left: 500px;
+	text-align: -webkit-center;
+}
+
+#blockBatla:hover {
+	width: 480px;
+	height: 287px;
+	margin-top: -582px;
+	margin-left: 502px;
+}
+
+#blockHuy {
+	width: 485px;
+	height: 290px;
+	background-color: #606056;
+	margin-top: 5px;
+	margin-left: 500px;
+	text-align: -webkit-center;
+}
+
+#blockHuy:hover {
+	width: 480px;
+	height: 287px;
+	margin-top: 8px;
+	margin-left: 502px;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
